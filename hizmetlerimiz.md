@@ -3,6 +3,9 @@ layout: post
 title: Hizmetlerimiz
 ---
 
+{: .box-warning}
+**Warning:** Tüm ziyaretlerinizde yanınızda mutlaka T.C. Kimlik numarası yazılı olan Nüfus Cüzdanı, Sürücü Belgesi ya da Pasaport bulundurun.
+
 ### Muayene Hizmetleri
 
 **Muayene olmak için;** Aile Hekiminizin çalışma saatlerine göre MHRS üzerinden randevu aldıktan sonra Aile Sağlığı Merkezine gelerek danışmadan kayıt yaptırabilir, ardından danışmanın yönlendirmesini takip ederek muayene olabilirsiniz.
