@@ -276,14 +276,12 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
       nav-short: true
-      share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nin Websitesi
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "post" #post_normal
       nav-short: true
-      share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nin Websitesi
 
 # Exclude these files from production site
 exclude:
