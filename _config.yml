@@ -20,12 +20,13 @@ author: Some Person
 ###############################################
 
 navbar-links:
+  Hizmetlerimiz: "hizmetlerimiz"
   Hakkımızda: "hakkimizda"
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Randevu Al: "https://mhrs.gov.tr/vatandas/#/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
