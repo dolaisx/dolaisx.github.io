@@ -4,7 +4,7 @@ title: Hizmetlerimiz
 ---
 
 {: .box-warning}
-**Warning:** Tüm ziyaretlerinizde yanınızda mutlaka T.C. Kimlik numarası yazılı olan Nüfus Cüzdanı, Sürücü Belgesi ya da Pasaport bulundurun.
+**Hatırlatma:** Tüm ziyaretlerinizde yanınızda mutlaka T.C. Kimlik numarası yazılı olan Nüfus Cüzdanı, Sürücü Belgesi ya da Pasaport bulundurun.
 
 ### Muayene Hizmetleri
 
