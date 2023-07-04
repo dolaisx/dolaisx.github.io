@@ -23,11 +23,9 @@ title: Kadromuz
 
 **Aile Sağlığı Çalışanı:**
 
-#### Temizlik Personeli:
-Hatice Şimşek
 
-#### Acil Tıp Teknisyeni:
-Alihan KORKMAZ
+**Temizlik Personeli:** Hatice Şimşek
 
-#### Tıbbi Sekreter:
-Hüseyin KAYA
+**Acil Tıp Teknisyeni:** Alihan KORKMAZ
+
+**Tıbbi Sekreter:** Hüseyin KAYA
