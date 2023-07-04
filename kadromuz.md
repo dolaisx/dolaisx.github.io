@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kadromuz
+share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Çalışanlar
 ---
 
 #### 34.07.004 No’lu Birim:
