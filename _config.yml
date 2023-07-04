@@ -10,10 +10,10 @@
 ############################
 remove-ads: true
 # Name of website
-title: My Website
+title: Bakirköy 1 No'lu Aile Sağlığı Merkezi
 
 # Your name to show in the footer
-author: Some Person
+author: Bakirköy 1 No'lu Aile Sağlığı Merkezi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "bakirkoy1noluasm.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -272,7 +272,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "minimal" #post_normal
+      layout: "post" #post_normal
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
       nav-short: true
@@ -280,7 +280,7 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "minimal" #post_normal
+      layout: "post" #post_normal
       nav-short: true
 
 # Exclude these files from production site
