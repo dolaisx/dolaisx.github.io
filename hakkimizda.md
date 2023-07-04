@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hakkımızda
+share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'ni Hakkında
 ---
 
 ### Fotoğraflar
