@@ -24,7 +24,6 @@ title: Kadromuz
 **Aile Sağlığı Çalışanı:**
 
 <br/>
-<br/>
 
 **Temizlik Personeli:** Hatice Şimşek
 
