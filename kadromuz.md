@@ -24,6 +24,8 @@ title: Kadromuz
 **Aile Sağlığı Çalışanı:**
 
 
+
+
 **Temizlik Personeli:** Hatice Şimşek
 
 **Acil Tıp Teknisyeni:** Alihan KORKMAZ
