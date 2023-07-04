@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hizmetlerimiz
+share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Sunulan Hizmetler
 ---
 
 {: .box-warning}
