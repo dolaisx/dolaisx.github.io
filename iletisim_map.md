@@ -1,7 +1,6 @@
 ---
 layout: post
 title: İletişim
-share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nin İletişim Bilgileri ve Adresi
 ---
 
 ## Adres ve Telefon:
