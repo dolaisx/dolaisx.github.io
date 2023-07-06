@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İletişim
+title: İletişim_map
 ---
 
 ## Adres ve Telefon:
