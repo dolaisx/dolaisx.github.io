@@ -9,7 +9,8 @@
     container: 'map',
 	center: [28.88328989520238,40.99500416551285],
 	zoom: 16,
-  style: 'mapbox://styles/mapbox/streets-v11'
+	language: auto,
+	style: 'mapbox://styles/mapbox/streets-v11'
   });
   	const marker1 = new mapboxgl.Marker()
 		.setLngLat([28.88328989520238,40.99500416551285])
@@ -18,7 +19,7 @@
 		map.addControl(new mapboxgl.ScaleControl());
 	const geocoder = new MapboxGeocoder({
 		accessToken: mapboxgl.accessToken,
-		language: 'tr-TR', // Specify the language as German.
+		language: 'tr-TR',
 		mapboxgl: mapboxgl
 });
 </script>
