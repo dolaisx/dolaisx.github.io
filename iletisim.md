@@ -13,3 +13,5 @@ Dr. Sadık Ahmet Parkı içi
 İstanbul, Bakırköy 34144
 
 0212 571 92 54
+
+{% include map.html %}
