@@ -16,5 +16,10 @@
 		.addTo(map);	
 		map.addControl(new mapboxgl.NavigationControl());
 		map.addControl(new mapboxgl.ScaleControl());
+	const geocoder = new MapboxGeocoder({
+		accessToken: mapboxgl.accessToken,
+		language: 'tr-TR', // Specify the language as German.
+		mapboxgl: mapboxgl
+});
 </script>
 </html>
