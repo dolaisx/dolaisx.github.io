@@ -8,7 +8,7 @@ share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nin İletişim Bil
 
 Osmaniye Mahallesi, İsmail Erez Bulvarı, No:21
 
-Sadık Ahmet Parkı içi
+Dr. Sadık Ahmet Parkı içi
 
 İstanbul, Bakırköy 34144
 
