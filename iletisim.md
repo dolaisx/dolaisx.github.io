@@ -14,6 +14,4 @@ Dr. Sadık Ahmet Parkı içi
 
 Yeni: 0212 571 58 81
 
-Eski: 0212 571 92 54
-
 {% include map.html %}
