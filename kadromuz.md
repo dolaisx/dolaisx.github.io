@@ -14,7 +14,7 @@ share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Çalışanlar
 #### 34.07.005 No’lu Birim:
 **Aile Hekimi:** Umay KARAL ÇELİK
 
-**Aile Sağlığı Çalışanı:** Sema TÜMEN
+**Aile Sağlığı Çalışanı:** Sema TÜMEN GİRAY
 
 <br/>
 
