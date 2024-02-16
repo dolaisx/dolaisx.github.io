@@ -32,7 +32,7 @@ share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Çalışanlar
 
 <br/>
 
-**Temizlik Personeli:** Hatice Şimşek
+**Temizlik Personeli:** Hatice ŞİMŞEK
 
 **Acil Tıp Teknisyeni:** Alihan KORKMAZ
 
