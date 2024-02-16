@@ -21,7 +21,7 @@ share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Çalışanlar
 #### 34.07.006 No’lu Birim:
 **Aile Hekimi:** Mine KURU KILIÇ
 
-**Aile Sağlığı Çalışanı:** Nihal Akpınar
+**Aile Sağlığı Çalışanı:** Nihal AKPINAR
 
 <br/>
 
