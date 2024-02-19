@@ -26,7 +26,7 @@ share-description: Bakirköy 1 No'lu Aile Sağlığı Merkezi'nde Çalışanlar
 <br/>
 
 #### 34.07.007 No’lu Birim:
-**Aile Hekimi:** Emre Can KARABEL
+**Aile Hekimi:** 
 
 **Aile Sağlığı Çalışanı:**
 
